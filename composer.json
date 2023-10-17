@@ -1,5 +1,5 @@
 {
-    "name": "jaymoulin/guzzlehttp-cloudflare",
+    "name": "lantosbro/guzzlehttp-cloudflare",
     "description": "Bypass Cloudflare protection using GuzzleHTTP",
     "autoload": {
         "psr-4": {
@@ -8,7 +8,7 @@
     },
     "require": {
         "php": "^7.2",
-        "jaymoulin/cloudflare-bypass": "dev-master",
+        "lantosbro/cloudflare-bypass": "dev-master",
         "guzzlehttp/guzzle": "^6.3",
         "ext-curl": "*",
         "ext-bcmath": "*"
